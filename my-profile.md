@@ -14,9 +14,25 @@
 ## 座右銘
 *幸運總是留給努力的人。*
 
-[聼音樂的網站]（https://music.youtube.com)
+[聼音樂的網站](https://music.youtube.com/)
+
+![picture](picture.jpg )
+
+```
+不要在意夢想有多大，也不要在意自己有多渺小，因為每個人都要從零開始.
+```
+>
+> >
+
+| 教育背景 | 就讀時間 |地方|
+|---|---|---|
+|高中 | 2020 - 2023 |越南
+|大學 | 2024 - 2028 |台灣
 
 
-<img width="250" height="280" alt="picture" src="https://github.com/user-attachments/assets/b0bb3efb-560a-4523-80be-3215d38864b5" />
+```python
+print("hello, Markdown")
+```
+
 
 
